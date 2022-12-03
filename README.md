@@ -140,7 +140,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Christopher Mata - [@christ0phermata](https://twitter.com/christ0phermata)
 
 Project Link: [[https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)](https://github.com/Christopher-Mata/DiscordBot-coatlicueBot)
 
